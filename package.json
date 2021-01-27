@@ -1,0 +1,10 @@
+{
+    "name": "Ramayac Desktop Utils",
+    "dependencies": {
+        "clipboardy": "^2.3.0",
+        "copy-to-clipboard": "^3.3.1",
+        "wallpaper": "^4.4.2",
+        "wifi-password-cli": "^1.0.0",
+        "windows-trayicon": "^3.0.0"
+    }
+}
