@@ -1,8 +1,22 @@
 {
-    "name": "Ramayac Desktop Utils",
+    "name": "ramadesk",
+    "version": "1.0.0",
+    "description": "Ramayac Desktop Utils",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test implemented\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ramayac/ramayacdesk"
+    },
+    "author": "Rodrigo Amaya <ramayac@gmail.com>",
+    "license": "MIT",
     "dependencies": {
         "brightness": "^3.0.0",
         "clipboardy": "^2.3.0",
+        "internal-ip": "^6.2.0",
         "public-ip": "^4.0.3",
         "wallpaper": "^4.4.2",
         "wifi-password": "^3.0.1",
